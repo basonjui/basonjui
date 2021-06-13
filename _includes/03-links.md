@@ -1,2 +1,2 @@
-## GitHub
-- bason jui's secret [stuff](https://github.com/basonjui)
+### GitHub
+- bason jui's secret [_stuff_](https://github.com/basonjui)
