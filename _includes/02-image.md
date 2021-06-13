@@ -1,1 +1,1 @@
-![Doge](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.businessinsider.com%2Fdoge-meme-nft-sells-for-4-million-at-auction-2021-6&psig=AOvVaw3uHa9ikv_XGsNV4m-fwS_x&ust=1623669525511000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCTisa-lPECFQAAAAAdAAAAABAD)
+![Doge](https://i.insider.com/60c3a81023393a00188e2b96?width=1000&format=jpeg&auto=webp)
