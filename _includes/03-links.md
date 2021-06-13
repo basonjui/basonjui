@@ -1,1 +1,2 @@
-:computer: : [basonjui](https://github.com/basonjui)
+## GitHub
+- bason jui's secret [stuff](https://github.com/basonjui)
