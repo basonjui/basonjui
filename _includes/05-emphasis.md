@@ -1,5 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
-
 # About me
 I am an undergraduate at **RMIT University Vietnam**, major in **Information Technology**.
 
