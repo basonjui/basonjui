@@ -1,13 +1,17 @@
-## Your GitHub Learning Lab Repository for Communicating Using Markdown
+## Bason Jui portfolio
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
+### BAMBOOZLE!
 
-Oh! I haven't introduced myself...
+![Doge can code](https://pbs.twimg.com/media/EfKADlvWAAE7P0p.jpg)
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+So... 
 
-I'll meet you over there, can't wait to get started!
+I discovered GitHub Learning Lab and used one of their tutorials to create a portfolio using GitHub Pages. Some standard ass shit. But here is the [GitHub Learning Lab](https://lab.github.com) if you are just as noob as I am.
+
+There is nothing interesting on the portfolio now though, I will come back and add more fun stuff.
 
 This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+
+
+Thanx!
